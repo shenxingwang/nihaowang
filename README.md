@@ -1,2 +1,3 @@
 # nihaowang
 demo
+new class
